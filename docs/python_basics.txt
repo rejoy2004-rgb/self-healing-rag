@@ -1,0 +1,4 @@
+Python is a high-level programming language.
+It uses indentation instead of curly braces.
+It supports object-oriented, functional, and procedural programming.
+Python is widely used in data science, AI, and web development.
